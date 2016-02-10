@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/knn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://stealingur.pw
+  * I am knn (https://keybase.io/knn) on keybase.
+  * I have a public key with fingerprint D2B1 7947 AA48 445C 0DBF  7798 AA46 D518 CB7A 7C14
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015502d9ab215389bfee269347aaf4a76c2c9eb4518981f9aa47d7d679325cf6f50a",
+            "fingerprint": "d2b17947aa48445c0dbf7798aa46d518cb7a7c14",
+            "host": "keybase.io",
+            "key_id": "aa46d518cb7a7c14",
+            "kid": "01015502d9ab215389bfee269347aaf4a76c2c9eb4518981f9aa47d7d679325cf6f50a",
+            "uid": "1c32b3e5fbd14dfbabb2bb0201f85f19",
+            "username": "knn"
+        },
+        "service": {
+            "hostname": "stealingur.pw",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1455110082,
+    "expire_in": 157680000,
+    "prev": "1a4f2d5bdc16d9b24381fb3781dd210fff74947ea7d9ee07935c2a73af0dc8c6",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJbSFRBGF7LDA0hKCqsrTiRlYieOfezFBQVRGwXHzIFY505M7MeXM/Z
+zp6ju0VF+pAV1Za1CFE9BdU+lCXdDbWgoIukZRBYkAURhWEgRRebI/XWY/My/PN/
+3zff98/cK5wcKMjZ2wliR2cu3pHzsKfNC1TeUnt3csjGKS60k6snExuJYZJwI/Um
+5kIcD3ggy7yAdYgEIIuajighgqKLkgohlaCqGIKhEyTJQNM1QHUIJRWrWFF1UZAN
+qlCZh1wpR00rSpy4Y1ouk8UCAqruS0iaJMkGjxFVVV1jtYKZkoFUqBpAYsQ6O+Ez
+mDkEE6TMtNkZKyIT9v6B/8++vQk5YIgCEolMEQYSpggiJCDECzygmkyB7gMTxLFg
+A/G9Wha3q5RjB42mQfyZ+iH+NBMugTE2DM8pizcxXtyxXduwY6xV57rxkM90U3Ef
+2kRQ5I9IBJkWZixGaCROwrQtLgQY0nBNXxVIsgwAz2tCKUeScdMhEdNHyKqi8Wz5
+15BGPwiUqIBlhA2gYB0JksiyI1HVAMYC4CmlqsTehUAV64TwbBiyIUBVhJTHhmYo
+nB9ru2X7VzKfMOonMqMWdD2HcLt6u2tyAzkFgbwpk/y/FSjIn/73x90LT/0lDV5N
+IbcrOXAYxFvOPjgx0lE/sz1xY92hB90tr5dVnDpWOLRmS9G8TKDwXEvyKd+zYEN5
+7HrZtjkz1g6la9Ppi1/yN1W3l/S9lD88z2ubcXP0Dj8ekt6f/Jgq6Vx6v3z97CVV
+XFs4UtHJ5X39UNN/O4tXvAi29h+MBrumnQcLX68aT2fe1jwmFxZd2eQV73v2KbCn
+uW/RoWzvuv0/xm5tbzYG5r8anBXbs3p0hZjZvTTZfDm48tHgguNnLgUzodCR0/cr
+Fr8ZmfvtXcfdSrQlnI16B4qKvWvD339mvarqkedjtcOvWseLW5+U99BT6zdfX75x
+96Rwe+7n2X1K8nTDo3y69Tfa3ECJ
+=cTuW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/knn
+
+==================================================================
